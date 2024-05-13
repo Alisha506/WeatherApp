@@ -1,4 +1,5 @@
 Project Overview:
+
 The Weather App is a simple and intuitive web application designed to provide users with real-time weather information based on the city name entered. Developed using HTML, CSS, and JavaScript, this app utilizes an API to fetch accurate weather data and dynamically displays it to the user.
 
 Key Features:
