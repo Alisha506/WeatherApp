@@ -5,8 +5,11 @@ The Weather App is a simple and intuitive web application designed to provide us
 Key Features:
 
 Real-Time Weather Information: The app seamlessly retrieves real-time weather data using an API, ensuring that users receive up-to-date and accurate information.
+
 Search Functionality: Users can enter the name of a city into the search bar, and the app will fetch and display the corresponding weather information for that city.
+
 Error Handling: If an invalid city name is entered, the app will display a 'Location not found' error, providing users with feedback and guidance.
+
 Responsive Design: The app is designed to be responsive, ensuring optimal user experience across various devices and screen sizes.
 
 Screenshots of the App:
